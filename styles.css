@@ -1,1 +1,18 @@
 /* your code */
+#table-row{
+	background-color: #1e5a89;
+  color: white;
+}
+table {
+  width:90%;
+	margin:40px auto;
+	border-collapse:collapse
+	border-radius:10px;
+	overflow:hidden;
+	font-family:sans-serif;
+	box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.alt-row {
+  background-color: #e3e3e3;
+}
